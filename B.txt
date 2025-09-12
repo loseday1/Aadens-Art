@@ -77,3 +77,8 @@ bear
 bald 
 boy 
 brain
+batter
+blog
+bone 
+build
+banish
